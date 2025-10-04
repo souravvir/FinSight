@@ -22,4 +22,32 @@ It covers everything from **data cleaning and transformation (Python)** to **SQL
 2. Data loaded into SQL database  
 3. Queries written for KPIs and trends  
 4. Dashboards built in Power BI & Tableau  
-5. Actionable insights derived and presented  
+5. Actionable insights derived and presented
+   
+
+
+---
+
+## 💡 Key Insights
+- Detected top-performing products and revenue trends  
+- Highlighted cost anomalies and seasonal patterns  
+- Delivered data-backed business recommendations  
+
+---
+
+## 🧠 What I Learned
+- Building complete data analytics workflows  
+- Optimizing SQL queries for KPIs  
+- Designing dashboards that tell a story  
+
+---
+
+## 🧑‍💻 Author
+**Sourav Vir**  
+📧 [your.email - souravvirs@gmail.com]  
+🔗 [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/souravvir/)) | [GitHub](https://github.com/souravvir)
+
+---
+
+## 🪪 License
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
