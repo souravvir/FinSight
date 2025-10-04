@@ -45,7 +45,7 @@ It covers everything from **data cleaning and transformation (Python)** to **SQL
 ## 🧑‍💻 Author
 **Sourav Vir**  
 📧 [your.email - souravvirs@gmail.com]  
-🔗 [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/souravvir/)) | [GitHub](https://github.com/souravvir)
+🔗 [LinkedIn]((https://www.linkedin.com/in/souravvir/)) | [GitHub](https://github.com/souravvir)
 
 ---
 
