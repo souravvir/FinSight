@@ -7,7 +7,7 @@ End-to-end finance analytics project using Python, SQL and Power BI — turning 
 An end-to-end finance analytics project that transforms raw bank loan data into interactive dashboards. This project showcases a full data analysis workflow, from data preparation in Excel to advanced visualization in Power BI.
 
 ---
-
+POWER BI DASHBOARD
 ### 📊 Summary Dashboard Preview
 
 ![Summary Dashboard](https://github.com/souravvir/FinSight/blob/main/Summary%20Dashboard%20Power%20BI.png)
@@ -15,6 +15,11 @@ An end-to-end finance analytics project that transforms raw bank loan data into 
 ### 📈 Overview Dashboard Preview
 
 ![Overview Dashboard](https://github.com/souravvir/FinSight/blob/main/Overview%20Dashboard%20Power%20BI.png)
+
+
+### 📈 Details Dashboard Preview
+
+![Overview Dashboard](https://github.com/souravvir/FinSight/blob/main/Details%20dashboard%20Power%20BI.png)
 
 ---
 
