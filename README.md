@@ -21,8 +21,18 @@ POWER BI DASHBOARD
 
 ![Overview Dashboard](https://github.com/souravvir/FinSight/blob/main/Details%20dashboard%20Power%20BI.png)
 
----
 
+EXCEL DASHBOARD
+
+### 📊 Summary Dashboard Preview
+
+![Summary Dashboard](https://github.com/souravvir/FinSight/blob/main/Summary%20Dashboard%20Excel.png)
+
+### 📈 Overview Dashboard Preview
+
+![Overview Dashboard](https://github.com/souravvir/FinSight/blob/main/Overview%20Dashboard%20Excel.png)
+
+---
 ## 📊 Project Overview
 
 **FinSight** is an end-to-end finance analytics project I built to turn raw financial data into meaningful insights and interactive dashboards.
