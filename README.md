@@ -8,32 +8,32 @@ An end-to-end finance analytics project that transforms raw bank loan data into 
 
 ---
 POWER BI DASHBOARD
-### 📊 Summary Dashboard Preview
+###  Summary Dashboard Preview
 
 ![Summary Dashboard](https://github.com/souravvir/FinSight/blob/main/Summary%20Dashboard%20Power%20BI.png)
 
-### 📈 Overview Dashboard Preview
+###  Overview Dashboard Preview
 
 ![Overview Dashboard](https://github.com/souravvir/FinSight/blob/main/Overview%20Dashboard%20Power%20BI.png)
 
 
-### 📈 Details Dashboard Preview
+###  Details Dashboard Preview
 
 ![Overview Dashboard](https://github.com/souravvir/FinSight/blob/main/Details%20dashboard%20Power%20BI.png)
 
 
 EXCEL DASHBOARD
 
-### 📊 Summary Dashboard Preview
+###  Summary Dashboard Preview
 
 ![Summary Dashboard](https://github.com/souravvir/FinSight/blob/main/Summary%20Dashboard%20Excel.png)
 
-### 📈 Overview Dashboard Preview
+###  Overview Dashboard Preview
 
 ![Overview Dashboard](https://github.com/souravvir/FinSight/blob/main/Overview%20Dashboard%20Excel.png)
 
 ---
-## 📊 Project Overview
+##  Project Overview
 
 **FinSight** is an end-to-end finance analytics project I built to turn raw financial data into meaningful insights and interactive dashboards.
 
@@ -41,7 +41,7 @@ It covers everything from **data cleaning and transformation (Python)** to **SQL
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 - **Python** – Data cleaning and preprocessing (`pandas`, `numpy`)
 - **SQL** – Data modeling and KPI generation  
 - **Power BI** – Interactive dashboard creation   
@@ -49,7 +49,7 @@ It covers everything from **data cleaning and transformation (Python)** to **SQL
 
 ---
 
-## ⚙️ Workflow
+##  Workflow
 1. Raw data → Cleaned using Python scripts  
 2. Data loaded into SQL database  
 3. Queries written for KPIs and trends  
@@ -60,26 +60,26 @@ It covers everything from **data cleaning and transformation (Python)** to **SQL
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 - Detected top-performing products and revenue trends  
 - Highlighted cost anomalies and seasonal patterns  
 - Delivered data-backed business recommendations  
 
 ---
 
-## 🧠 What I Learned
+##  What I Learned
 - Building complete data analytics workflows  
 - Optimizing SQL queries for KPIs  
 - Designing dashboards that tell a story  
 
 ---
 
-## 🧑‍💻 Author
+##  Author
 **Sourav Vir**  
-📧 [your.email - souravvirs@gmail.com]  
-🔗 [LinkedIn](https://www.linkedin.com/in/souravvir/) | [GitHub](https://github.com/souravvir)
+ [your.email - souravvirs@gmail.com]  
+ [LinkedIn](https://www.linkedin.com/in/souravvir/) | [GitHub](https://github.com/souravvir)
 
 ---
 
-## 🪪 License
+##  License
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
